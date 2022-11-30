@@ -1,0 +1,68 @@
+const data = [
+  {
+    id: 1,
+    name: "JS-Algorithms",
+    image: "jsalgorithms",
+    url: "https://github.com/huseyin-aln/javascriptAlgorithms",
+    source: "https://github.com/huseyin-aln/javascriptAlgorithms",
+    tool: "javascript",
+  },
+  {
+    id: 2,
+    name: "Blog App",
+    image: "blogapp",
+    url: "https://django-blog-app.netlify.app",
+    source: "https://github.com/huseyin-aln/Capstone-Blog-App-RP",
+    tool: "react",
+  },
+  {
+    id: 3,
+    name: "Fire-Blog App",
+    image: "fireblogapp",
+    url: "https://fireblog-app-rp.netlify.app/",
+    source: "https://github.com/huseyin-aln/FireBlog-App-RP",
+    tool: "react",
+  },
+  {
+    id: 4,
+    name: "Coronavirus_Dashboard_App",
+    image: "coronavirusDashboardApp",
+    url: "coronavirus-dashboard-app.netlify.app/",
+    source: "https://github.com/huseyin-aln/Coronavirus_Dashboard_App",
+    tool: "react",
+  },
+  {
+    id: 5,
+    name: "Fire-Contant-App-RP",
+    image: "fireContantAppRP",
+    url: "fire-contact-rp.netlify.app/",
+    source: "https://github.com/huseyin-aln/Fire-Contant-App-RP",
+    tool: "react",
+  },
+  {
+    id: 6,
+    name: "Recipe-App-RP",
+    image: "recipeAppRP",
+    url: "recipeapp-rp.netlify.app/",
+    source: "https://github.com/huseyin-aln/Recipe-App-RP",
+    tool: "react",
+  },
+  {
+    id: 7,
+    name: "Movie-App-RP",
+    image: "movieAppRP",
+    url: "movie-app-rp.netlify.app/",
+    source: "https://github.com/huseyin-aln/Movie-App-RP",
+    tool: "react",
+  },
+  {
+    id: 8,
+    name: "Weather-App-RP",
+    image: "weatherAppRP",
+    url: "weatherapp-rp.netlify.app/",
+    source: "https://github.com/huseyin-aln/Weather-App-RP",
+    tool: "react",
+  },
+];
+
+export default data;
