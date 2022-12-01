@@ -1,4 +1,3 @@
-import { useContext } from "react";
 import {
   BsLinkedin,
   BsGithub,
@@ -21,7 +20,7 @@ const Contact = () => {
           <div className="back">
             <div className="inner d-flex justify-content-center align-items-center">
               <Link
-                to="//www.linkedin.com/in/mehmet%C3%A7ak%C4%B1r43/"
+                to="//www.linkedin.com/in/hüseyin-arslan444/"
                 target="_blank"
               >
                 <span className="display-2 d-flex align-items-center rounded-3">
@@ -41,7 +40,7 @@ const Contact = () => {
           </div>
           <div className="back">
             <div className="inner d-flex justify-content-center align-items-center">
-              <Link to="//github.com/MehmetCakir1" target="_blank">
+              <Link to="//github.com/huseyin-aln" target="_blank">
                 <span className="display-2 d-flex align-items-center rounded-circle">
                   <BsGithub className="github-contact" />
                 </span>
@@ -68,19 +67,6 @@ const Contact = () => {
           </div>
         </div>
       </div>
-
-      {/* <div className="switch">
-        <label className="theme-switch" htmlFor="checkbox" id="round1">
-          <input type="checkbox" id="checkbox" onClick={changeTheme} />
-          <div className="slider round">
-            {theme == "light-theme" ? (
-              <img src="images/sun.png" alt="sun" className="sun" />
-            ) : (
-              <img src="images/moon.png" alt="moon" className="moon" />
-            )}
-          </div>
-        </label>
-      </div> */}
     </main>
   );
 };

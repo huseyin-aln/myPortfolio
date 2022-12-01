@@ -2,7 +2,6 @@ import { Link, NavLink } from "react-router-dom";
 import Sidebar from "./SideBar";
 import { GiHamburgerMenu } from "react-icons/gi";
 import { useState } from "react";
-// import { DataContext } from "../context/DataContext";
 
 const Navbar = () => {
   const [showMenu, setShowMenu] = useState(false);

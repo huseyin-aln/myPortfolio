@@ -5,8 +5,8 @@ const ProjectContainer = ({ projects, handleProjects }) => {
     let items = document.querySelectorAll(".single-category.active-category");
     if (
       items.length &&
-      a.className != "button__vertical" &&
-      a.className != "button__horizontal"
+      a.className !== "button__vertical" &&
+      a.className !== "button__horizontal"
     ) {
       items[0].className = "single-category";
     }
@@ -74,19 +74,6 @@ const ProjectContainer = ({ projects, handleProjects }) => {
           })}
         </div>
       </div>
-
-      {/* <div className="switch">
-        <label className="theme-switch" htmlFor="checkbox" id="round1">
-          <input type="checkbox" id="checkbox" onClick={changeTheme} />
-          <div className="slider round">
-            {theme == "light-theme" ? (
-              <img src="images/sun.png" alt="sun" className="sun" />
-            ) : (
-              <img src="images/moon.png" alt="moon" className="moon" />
-            )}
-          </div>
-        </label>
-      </div> */}
     </>
   );
 };

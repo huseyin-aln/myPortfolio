@@ -1,5 +1,44 @@
 @import url("https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,700;1,700&display=swap");
 
+:root {
+  --bgColor: rgb(226, 210, 210);
+  --fontColor: rgb(53, 52, 52);
+  --font-secondary-color: rgb(105, 103, 103);
+  --slider: rgb(80, 79, 79);
+  --nav-link-color: rgb(12, 12, 12);
+  --skill-card-bg: rgba(199, 102, 102, 0.3);
+  --upper-btn-text-color: #2b2929;
+  --upper-btn-general: #e55743;
+  --project-border: 1px solid #000;
+  --hamburger-color: var(--btnColor);
+  --active-link-color: #d23669;
+}
+.dark-theme {
+  --bgColor: #0a192f;
+  --fontColor: #ccd6f6;
+  --font-secondary-color: #8892b0;
+  --slider: rgb(179, 175, 175);
+  --skill-card-bg: rgba(255, 255, 255, 0.3);
+  --upper-btn-text-color: #898989;
+  --upper-btn-general: #e55743;
+  --project-border: none;
+  --hamburger-color: #898989;
+  --nav-link-color-dark: rgb(196, 191, 191);
+}
+.light-theme {
+  --bgColor: rgb(226, 210, 210);
+  --fontColor: rgb(53, 52, 52);
+  --font-secondary-color: rgb(105, 103, 103);
+  --slider: rgb(80, 79, 79);
+  --nav-link-color: rgb(53, 52, 52);
+  --skill-card-bg: rgba(255, 255, 255, 0.3);
+  --skill-card-bg: rgba(199, 102, 102, 0.3);
+  --upper-btn-general: #e55743;
+  --project-border: 1px solid #000;
+  --hamburger-color: var(--btnColor);
+  --nav-link-color: rgb(24, 22, 22);
+}
+
 * {
   margin: 0;
   padding: 0;
@@ -68,7 +107,7 @@ nav {
   width: 50px;
   height: 50px;
   border-radius: 50%;
-  /* background-image: url("../public/images/bubble.png"); */
+  background-image: url("../public/images/bubble.png");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -177,6 +216,12 @@ aside {
 .email:hover {
   transform: translate(0);
 }
+.resume {
+  background-color: #565f69;
+}
+.resume:hover {
+  transform: translate(0);
+}
 
 /*-------------------------SKILL PAGE------------------------------*/
 .skill {
@@ -212,9 +257,7 @@ aside {
 .git img {
   width: 120%;
 }
-.tailwind img {
-  width: 120%;
-}
+
 .skill .title {
   color: #0a192f !important;
   font-weight: 700;
@@ -608,4 +651,3 @@ article.contact {
     margin-top: 8rem !important;
   }
 }
-/*---------------------------------------*/
