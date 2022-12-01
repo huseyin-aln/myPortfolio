@@ -10,7 +10,7 @@ const data = [
   {
     id: 2,
     name: "Blog App",
-    image: "Blog App",
+    image: "Capstone-Blog-App-RP",
     url: "https://django-blog-app.netlify.app",
     source: "https://github.com/huseyin-aln/Capstone-Blog-App-RP",
     tool: "react",
@@ -18,7 +18,7 @@ const data = [
   {
     id: 3,
     name: "Fire-Blog App",
-    image: "Fire-Blog App",
+    image: "FireBlog-App-RP",
     url: "https://fireblog-app-rp.netlify.app/",
     source: "https://github.com/huseyin-aln/FireBlog-App-RP",
     tool: "react",
@@ -178,7 +178,7 @@ const data = [
   {
     id: 23,
     name: "Todo-App-Auth-D",
-    image: "Todo-App-Auth-D",
+    image: "Todo-App-D",
     url: "http://benh.pythonanywhere.com/",
     source: "https://github.com/huseyin-aln/Todo-App-Auth-D",
     tool: "django",
@@ -202,7 +202,7 @@ const data = [
   {
     id: 26,
     name: "Create-RandomNumber-RP",
-    image: "Create-RandomNumber-RP",
+    image: "randomNumber-RP",
     url: "https://github.com/huseyin-aln/Create-RandomNumber-RP",
     source: "https://github.com/huseyin-aln/Create-RandomNumber-RP",
     tool: "react",
@@ -210,7 +210,7 @@ const data = [
   {
     id: 27,
     name: "Image-Gallery-RP",
-    image: "Image-Gallery-RP",
+    image: "imageGallery-RP",
     url: "https://github.com/huseyin-aln/Image-Gallery-RP",
     source: "https://github.com/huseyin-aln/Image-Gallery-RP",
     tool: "react",
@@ -226,7 +226,7 @@ const data = [
   {
     id: 29,
     name: "Language-Cards-RP",
-    image: "Language-Cards-RP",
+    image: "language-cards",
     url: "https://language-cards-rp-02.netlify.app/",
     source: "https://github.com/huseyin-aln/Language-Cards-RP-02",
     tool: "react",
@@ -234,7 +234,7 @@ const data = [
   {
     id: 30,
     name: "Contact-List-App-RP",
-    image: "Contact-List-App-RP",
+    image: "contact-list-app-rp",
     url: "https://contact-list-app-rp.netlify.app/",
     source: "https://github.com/huseyin-aln/Contact-List-App-RP",
     tool: "react",
@@ -242,7 +242,7 @@ const data = [
   {
     id: 31,
     name: "Task-Tracker-RP",
-    image: "Task-Tracker-RP",
+    image: "task-tracker-rp",
     url: "https://task-tracker-rp.netlify.app/",
     source: "https://github.com/huseyin-aln/Task-Tracker-RP",
     tool: "react",
@@ -250,7 +250,7 @@ const data = [
   {
     id: 32,
     name: "Axios-Router-RP",
-    image: "Axios-Router-RP",
+    image: "axios-router-rp",
     url: "https://axios-router-example-rp.netlify.app/",
     source: "https://github.com/huseyin-aln/Axios-Router-RP",
     tool: "react",
@@ -258,7 +258,7 @@ const data = [
   {
     id: 33,
     name: "Random-User-RP",
-    image: "Random-User-RP",
+    image: "random-user-app-rp",
     url: "https://random-user-rp.netlify.app/",
     source: "https://github.com/huseyin-aln/Random-User-RP",
     tool: "react",
@@ -282,7 +282,7 @@ const data = [
   {
     id: 36,
     name: "Country-Holiday-RP",
-    image: "Country-Holiday-RP",
+    image: "countryHolidayApp",
     url: "https://github.com/huseyin-aln/Country-Holiday-RP",
     source: "https://github.com/huseyin-aln/Country-Holiday-RP",
     tool: "react",
@@ -290,7 +290,7 @@ const data = [
   {
     id: 37,
     name: "vowelsCounter",
-    image: "vowelsCounter",
+    image: "vowelCount",
     url: "https://huseyin-aln.github.io/vowelsCounter/",
     source: "https://github.com/huseyin-aln/vowelsCounter",
     tool: "javascript",
@@ -330,7 +330,7 @@ const data = [
   {
     id: 42,
     name: "checkout-form",
-    image: "checkout-form",
+    image: "check-out-form",
     url: "https://huseyin-aln.github.io/checkout-form/",
     source: "https://github.com/huseyin-aln/checkout-form",
     tool: "javascript",
@@ -442,7 +442,7 @@ const data = [
   {
     id: 56,
     name: "nav-bar",
-    image: "nav-bar",
+    image: "navbar",
     url: "https://huseyin-aln.github.io/nav-bar/",
     source: "https://github.com/huseyin-aln/nav-bar",
     tool: "css",
@@ -450,7 +450,7 @@ const data = [
   {
     id: 57,
     name: "leap-year",
-    image: "leap-year",
+    image: "leapYear",
     url: "https://huseyin-aln.github.io/nav-bar/",
     source: "https://github.com/huseyin-aln/leap-year",
     tool: "javascript",
@@ -466,7 +466,7 @@ const data = [
   {
     id: 59,
     name: "Calculator",
-    image: "Calculator",
+    image: "calculator",
     url: "https://huseyin-aln.github.io/Calculator/",
     source: "https://github.com/huseyin-aln/Calculator",
     tool: "javascript",
@@ -474,7 +474,7 @@ const data = [
   {
     id: 60,
     name: "interactive-component",
-    image: "interactive-component",
+    image: "interactive",
     url: "https://huseyin-aln.github.io/interactive-component/",
     source: "https://github.com/huseyin-aln/interactive-component",
     tool: "javascript",
@@ -482,7 +482,7 @@ const data = [
   {
     id: 61,
     name: "ChangeBgColor",
-    image: "ChangeBgColor",
+    image: "changeBgColor",
     url: "https://huseyin-aln.github.io/ChangeBgColor/",
     source: "https://github.com/huseyin-aln/ChangeBgColor",
     tool: "javascript",
@@ -514,7 +514,7 @@ const data = [
   {
     id: 65,
     name: "loanCalculator",
-    image: "loanCalculator",
+    image: "Loan Calculator",
     url: "https://huseyin-aln.github.io/loanCalculator/",
     source: "https://github.com/huseyin-aln/loanCalculator",
     tool: "javascript",
