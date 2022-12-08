@@ -25,7 +25,7 @@ const data = [
   },
   {
     id: 4,
-    name: "Coronavirus_Dashboard_App",
+    name: "Coronavirus Dashboard App",
     image: "Coronavirus_Dashboard_App",
     url: "coronavirus-dashboard-app.netlify.app/",
     source: "https://github.com/huseyin-aln/Coronavirus_Dashboard_App",
@@ -345,7 +345,7 @@ const data = [
   },
   {
     id: 44,
-    name: "Bootstrap_breakpoints_example-2",
+    name: "Bootstrap breakpoints example-2",
     image: "Bootstrap_breakpoints_example-2",
     url: "https://huseyin-aln.github.io/Bootstrap_breakpoints_example-2/",
     source: "https://github.com/huseyin-aln/Bootstrap_breakpoints_example-2",
@@ -353,7 +353,7 @@ const data = [
   },
   {
     id: 45,
-    name: "Bootstrap_breakpoints_example-1",
+    name: "Bootstrap breakpoints example-1",
     image: "Bootstrap_breakpoints_example-1",
     url: "https://huseyin-aln.github.io/Bootstrap_breakpoints_example-1/",
     source: "https://github.com/huseyin-aln/Bootstrap_breakpoints_example-1",
