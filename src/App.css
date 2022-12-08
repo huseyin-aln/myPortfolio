@@ -224,9 +224,7 @@ aside {
 }
 
 /*-------------------------SKILL PAGE------------------------------*/
-.skill {
-  animation: skill-animation 1s ease-in-out;
-}
+
 @keyframes skill-animation {
   0% {
     transform: scale(0);
@@ -243,17 +241,21 @@ aside {
   transition: all 0.3s ease-in-out;
   backdrop-filter: blur(4px) saturate(186%);
   -webkit-backdrop-filter: blur(4px) saturate(186%);
-  background-color: var(--skill-card-bg);
+  background-color: #c3c8ca;
   border-radius: 12px;
   border: 1px solid var(--skill-card-bg);
+  animation: skill-animation 1s ease-in-out;
 }
+
 .skill:hover {
   transform: scale(1.05);
 }
+
 .skill img {
   width: 60%;
   object-fit: contain;
 }
+
 .git img {
   width: 120%;
 }
@@ -262,7 +264,8 @@ aside {
   color: #0a192f !important;
   font-weight: 700;
 }
-.page-header h1 {
+
+/* .page-header h1 {
   position: fixed;
   top: 50%;
   right: 0%;
@@ -273,8 +276,7 @@ aside {
   margin-right: -6rem;
   width: 270px !important;
   text-align: center !important;
-  /* border-radius: 70px 70px 0px 0; */
-}
+} */
 
 /*-----------------------PROJECT PAGE----------------------------*/
 .project-imgDiv img {
@@ -283,15 +285,18 @@ aside {
   /* object-fit: cover; */
   border: var(--project-border);
 }
+
 .project-imgDiv {
   position: relative;
   /* width: 90%; */
   max-width: 300px;
 }
+
 .projectName {
   text-shadow: 2px 0 #0a192f, -2px 0 #0a192f, 0 2px #0a192f, 0 -2px #0a192f,
     1px 1px #0a192f, -1px -1px #0a192f, 1px -1px #0a192f, -1px 1px #0a192f;
 }
+
 .btnDiv {
   width: 100%;
   height: 250px;
@@ -301,18 +306,22 @@ aside {
   transform: translate(-50%, -50%);
   background-color: rgba(15, 34, 63, 0.7);
 }
+
 .btnDiv button {
-  width: 6.5rem;
-  font-size: 0.8rem !important;
+  width: 7.5rem;
+  font-size: 1rem !important;
 }
-.visit {
+
+.btnDiv .visit {
   background-color: #8892b0;
 }
-.source {
+
+.btnDiv .source {
   background-color: #ccd6f6;
 }
-.visit:hover,
-.source:hover {
+
+.btnDiv .visit:hover,
+.btnDiv .source:hover {
   background-color: #2a4c80;
   color: #ccd6f6;
 }
