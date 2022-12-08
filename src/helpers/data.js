@@ -2,7 +2,7 @@ const data = [
   {
     id: 1,
     name: "JS-Algorithms",
-    image: "JS-Algorithms",
+    image: "jsalgorithms",
     url: "https://github.com/huseyin-aln/javascriptAlgorithms",
     source: "https://github.com/huseyin-aln/javascriptAlgorithms",
     tool: "javascript",
@@ -33,8 +33,8 @@ const data = [
   },
   {
     id: 5,
-    name: "Fire-Contant-App-RP",
-    image: "Fire-Contant-App-RP",
+    name: "Fire-Contact-App-RP",
+    image: "Fire-Contact-App-RP",
     url: "fire-contact-rp.netlify.app/",
     source: "https://github.com/huseyin-aln/Fire-Contant-App-RP",
     tool: "react",
@@ -130,7 +130,7 @@ const data = [
   {
     id: 17,
     name: "Capstone-Blog-App-D",
-    image: "Capstone-Blog-App-D",
+    image: "django",
     url: "https://github.com/huseyin-aln/Capstone-Blog-App-D",
     source: "https://github.com/huseyin-aln/Capstone-Blog-App-D",
     tool: "django",
@@ -138,7 +138,7 @@ const data = [
   {
     id: 18,
     name: "Practise-Series",
-    image: "Practise-Series",
+    image: "react",
     url: "https://github.com/huseyin-aln/Practise-Series",
     source: "https://github.com/huseyin-aln/Practise-Series",
     tool: "react",
@@ -162,7 +162,7 @@ const data = [
   {
     id: 21,
     name: "Blog-App-D",
-    image: "Blog-App-D",
+    image: "django",
     url: "https://github.com/huseyin-aln/Blog-App-D",
     source: "https://github.com/huseyin-aln/Blog-App-D",
     tool: "django",
@@ -186,7 +186,7 @@ const data = [
   {
     id: 24,
     name: "Pizza-Order-Website-D",
-    image: "Pizza-Order-Website-D",
+    image: "django",
     url: "https://github.com/huseyin-aln/Pizza-Order-Website-D",
     source: "https://github.com/huseyin-aln/Pizza-Order-Website-D",
     tool: "django",
@@ -194,7 +194,7 @@ const data = [
   {
     id: 25,
     name: "Student-Register-D",
-    image: "Student-Register-D",
+    image: "django",
     url: "https://github.com/huseyin-aln/Student-Register-D",
     source: "https://github.com/huseyin-aln/Student-Register-D",
     tool: "django",
@@ -217,11 +217,11 @@ const data = [
   },
   {
     id: 28,
-    name: "Image-Gallery-RP",
-    image: "Image-Gallery-RP",
-    url: "https://github.com/huseyin-aln/Image-Gallery-RP",
-    source: "https://github.com/huseyin-aln/Image-Gallery-RP",
-    tool: "react",
+    name: " Flight-Project-D",
+    image: "django",
+    url: " https://github.com/huseyin-aln/Flight-Project-D ",
+    source: " https://github.com/huseyin-aln/Flight-Project-D ",
+    tool: "django",
   },
   {
     id: 29,
@@ -274,7 +274,7 @@ const data = [
   {
     id: 35,
     name: "News-App-RP",
-    image: "News-App-RP",
+    image: "react",
     url: "https://github.com/huseyin-aln/News-App-RP",
     source: "https://github.com/huseyin-aln/News-App-RP",
     tool: "react",
@@ -514,7 +514,7 @@ const data = [
   {
     id: 65,
     name: "loanCalculator",
-    image: "Loan Calculator",
+    image: "loanCalculator",
     url: "https://huseyin-aln.github.io/loanCalculator/",
     source: "https://github.com/huseyin-aln/loanCalculator",
     tool: "javascript",

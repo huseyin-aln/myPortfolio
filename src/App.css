@@ -285,6 +285,7 @@ aside {
 }
 .project-imgDiv {
   position: relative;
+  /* width: 90%; */
   max-width: 300px;
 }
 .projectName {
