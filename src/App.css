@@ -147,7 +147,7 @@ aside {
   transform: translate(0);
 }
 
-/*-------------------------SKILL PAGE------------------------------*/
+/*-------------------------SKILL PAGE-------------------------*/
 
 @keyframes skill-animation {
   0% {
@@ -188,7 +188,7 @@ aside {
   font-weight: 700;
 }
 
-/*-----------------------PROJECT PAGE----------------------------*/
+/*--------------------PROJECT PAGE------------------------*/
 .project-imgDiv img {
   width: 100%;
   height: 250px;
@@ -315,7 +315,7 @@ aside {
   transform: scale(0.1, 1);
 }
 
-/*------------------------------CONTACT PAGE----------------------------*/
+/*-------------------------CONTACT PAGE-----------------------*/
 article.contact {
   margin-top: 10rem;
 }
@@ -535,7 +535,12 @@ article.contact {
   .homeContainer {
     margin-top: 3rem !important;
   }
+
+  .skill img {
+    width: 40%;
+  }
 }
+
 @media (max-width: 567px) {
   .icons {
     transform: translate(-8rem);
@@ -575,7 +580,7 @@ article.contact {
   .links a {
     border: none !important;
   }
-  .homeContainer {
+  .home-container {
     margin-top: 5rem !important;
   }
   .contact-container {
@@ -583,7 +588,7 @@ article.contact {
   }
 }
 @media (min-width: 1000px) {
-  .homeContainer {
+  .home-container {
     margin-top: 8rem !important;
   }
 }
