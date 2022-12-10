@@ -57,8 +57,8 @@ nav {
 
 /*-------------------HOME PAGE---------------------------*/
 .home-container {
-  width: 90%;
-  height: 80vh;
+  width: 80%;
+  height: 85vh;
   margin: auto;
 }
 
@@ -580,15 +580,15 @@ article.contact {
   .links a {
     border: none !important;
   }
-  .home-container {
-    margin-top: 5rem !important;
-  }
+  /* .home-container {
+    margin-top: 5rem;
+  } */
   .contact-container {
     margin-top: 5rem;
   }
 }
-@media (min-width: 1000px) {
+/* @media (min-width: 1000px) {
   .home-container {
-    margin-top: 8rem !important;
+    margin-top: 8rem;
   }
-}
+} */
