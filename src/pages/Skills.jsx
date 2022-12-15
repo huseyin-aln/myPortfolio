@@ -67,7 +67,7 @@ const Skills = () => {
 
         <div className="skill d-flex flex-column col-sm-6 col-md-4 col-lg-2 align-items-center justify-content-between py-1">
           <div className="image d-flex align-items-center justify-content-center">
-            <img src="images/styled-component.png" alt="ts" />
+            <img src="images/styled-component.png" alt="sc" />
           </div>
           <div className="title text-light fs-6 styled">STYLED-COMPONENTS</div>
         </div>

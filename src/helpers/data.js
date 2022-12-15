@@ -519,6 +519,14 @@ const data = [
     source: "https://github.com/huseyin-aln/loanCalculator",
     tool: "javascript",
   },
+  {
+    id: 66,
+    name: "P-RestaurantWebsite-RP",
+    image: "P-RestaurantWebsite-RP",
+    url: "https://p-restaurantwebsite-rp.netlify.app/",
+    source: "https://github.com/huseyin-aln/P-RestaurantWebsite-RP",
+    tool: "react",
+  },
 ];
 
 export default data;
