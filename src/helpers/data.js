@@ -535,6 +535,14 @@ const data = [
     source: "https://github.com/huseyin-aln/E-CommerceSiteDesign-RP",
     tool: "react",
   },
+  {
+    id: 68,
+    name: "TS-ShoppingCart-RP",
+    image: "TS-ShoppingCart-RP",
+    url: "https://ts-shoppingcart-rp.netlify.app/",
+    source: "https://github.com/huseyin-aln/TS-ShoppingCart-RP",
+    tool: "react",
+  },
 ];
 
 export default data;
