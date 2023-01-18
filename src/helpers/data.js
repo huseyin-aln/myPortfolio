@@ -543,6 +543,14 @@ const data = [
     source: "https://github.com/huseyin-aln/TS-ShoppingCart-RP",
     tool: "react",
   },
+  {
+    id: 69,
+    name: "Practise-Series-2",
+    image: "react",
+    url: "https://github.com/huseyin-aln/Practise-Series_2",
+    source: "https://github.com/huseyin-aln/Practise-Series_2",
+    tool: "react",
+  },
 ];
 
 export default data;
